@@ -1,0 +1,78 @@
+body {
+  background: url('grupo-personas-trabajando-plan-negocios-oficina.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.bg-image {
+  background-image: url('https://source.unsplash.com/kKvQJ6rK6S4/660x1000');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+button{
+  background-color: black !important;
+}
+
+.paddingForm{
+  padding: 7% 10% !important;
+}
+
+.titulo{
+  text-align: center;
+  color: white;
+}
+
+.bgColor{
+  background-color: #4571e0 !important;
+}
+
+.padRight{
+  padding-top: 25%;
+  margin-left: 5%;
+}
+
+.right{
+  margin-left: 8%;
+}
+
+.border{
+  border: 1px solid black !important;
+  text-align: center !important;
+  width: 59%;
+  height: 43px;
+  margin-top: 19% !important;
+  padding-top: 7%;
+  font-size: 19px;
+  padding-left: 0%;
+  margin-left: 28%;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+p{
+  color: white;
+  font-size: 15px;
+}
+
+h2{
+  font-weight: bold !important;
+}
+
+.paddingHome{
+  padding-top: 3%;
+}
+
+.copyRights{
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 1%;
+}
